@@ -1,2 +1,2 @@
-@py.exe C:\pythonScripts\outlookauto\outofoffice.py
+@py.exe C:\pythonScripts\outlookauto\outOfOffice.py
 pause
